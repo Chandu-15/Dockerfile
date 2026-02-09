@@ -1,2 +1,2 @@
-FROM cmd:v1
+FROM chandana137/cmd:v1
 EXPOSE 80/tcp
